@@ -1,6 +1,6 @@
 cask 'comma-ide-community-edition' do
-  version '2019.10.0'
-  sha256 '68d0fe226e489c9fa4cb1da621fd00100fd4e63118ff311091786b30828a33a3'
+  version '2020.01.0'
+  sha256 'f38002df9c8b6b3184cb2c04a4129afe07178402f7d31009707790ec7dfe173f'
 
   url do
     require 'open-uri'
